@@ -4,8 +4,8 @@
   </a>
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yasuakiyoshida&theme=merko&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yasuakiyoshida&theme=merko&show_icons=true" width="49%" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasuakiyoshida&theme=merko&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasuakiyoshida&theme=merko&layout=compact" width="41%" />
 </a>
