@@ -5,7 +5,7 @@
   <a href="http://qiita.com/yasu_yk">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yasu_yk/posts.svg" />
   </a>
-  <//qiita.com/yasu_yk">
+  <a href="http://qiita.com/yasu_yk">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yasu_yk/contributions.svg" />
   </a>
 </p>
