@@ -5,9 +5,6 @@
   <a href="http://qiita.com/yasu_yk">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yasu_yk/posts.svg" />
   </a>
-  <a href="http://qiita.com/yasu_yk">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yasu_yk/contributions.svg" />
-  </a>
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yasuakiyoshida&theme=merko&show_icons=true" width="49%" height="200px"  />
